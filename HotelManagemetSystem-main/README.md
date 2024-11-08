@@ -14,9 +14,3 @@ The main objective is to create a centralized system for a chain of hotels. Cent
 # DESIGN: 
 The database has 11 different entities with many other attributes that help us understand what data hotel stores to smoothen the day-to-day activities.
 
-More Details can be found in the Presentation Link below:
-
-# PRESENTATION LINK : [Hotel Management System.pptx](https://github.com/niyatishah9/HotelManagemetSystem/files/7731038/Hotel.Management.System.pptx)
-
-
-# POWERBI REPORT :[PowerBI_report_hotelM.pdf](https://github.com/niyatishah9/HotelManagemetSystem/files/7730998/PowerBI_report_hotelM.pdf)
